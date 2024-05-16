@@ -1,0 +1,6 @@
+[submodule "deps/range_i"]
+    path = deps/range_i
+    url = git@github.com:nyakovlev-fpga/range_i.git
+[submodule "deps/value_i"]
+    path = deps/value_i
+    url = git@github.com:nyakovlev-fpga/value_i.git
