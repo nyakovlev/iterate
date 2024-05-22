@@ -1,0 +1,2 @@
+interface iterate_page_i;
+endinterface
